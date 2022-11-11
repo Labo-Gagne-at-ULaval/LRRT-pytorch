@@ -1,9 +1,10 @@
-============
-LRRT-pytorch
+# LRRT-pytorch
 ============
 
-Summary : Learning rate range test (LRRT); fast version
+Summary : Learning rate range test (LRRT) for PyTorch projects.
+
 Author : Stéphane M. Gagné, Université Laval
+
 Version : 0.1-alpha
 
 Description
@@ -27,7 +28,8 @@ Design
 
 Input file
 ==========
-The input file should be in the current directory, and be specific for one particular test
+The input file should be in the current directory, and be specific for one particular test.
+
 The input file should have the following functions
 - model
 - optimizer
