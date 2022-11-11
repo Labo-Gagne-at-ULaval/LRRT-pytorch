@@ -1,5 +1,4 @@
 # LRRT-pytorch
-============
 
 Summary : Learning rate range test (LRRT) for PyTorch projects.
 
